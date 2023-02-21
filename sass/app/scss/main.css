@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  outline: none;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+header {
+  background-color: bisque;
+  padding: 1rem;
+}
+
+main {
+  background-color: orange;
+  padding: 1rem;
+}/*# sourceMappingURL=main.css.map */
